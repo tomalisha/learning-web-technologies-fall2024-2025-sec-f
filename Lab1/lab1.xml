@@ -1,0 +1,30 @@
+<students_TASK>
+   <product/>
+    <product ="1">
+        <name> "Samsung" </name>
+        <id> "11" </id>
+        <U.pice> 35000 </U.price>
+        <Stock>50 </Stock>
+        <Status>1<Status>
+
+       
+        </product>
+
+        <product ="2">
+        <name> "HTC" </name>
+        <id> "20" </id>
+        <U.pice> 65300 </U.price>
+        <Stock> 35 </Stock>
+        <Status> 0 <Status>
+
+
+ </product>
+
+        <product ="3">
+        <name> "Nokia" </name>
+        <id> "23" </id>
+        <U.pice> 25100 </U.price>
+        <Stock> 100 </Stock>
+        <Status> 1 <Status>
+
+

@@ -1,0 +1,26 @@
+<students_TASK>
+   <name>
+    <Firstname> "John" </name>
+        <Lasttname> "Carter" </name>
+   <name/>
+       <SL.no> "23" </SL.no>
+        <AdmissionDAte> 25/12/2015 </AdmissionDAte>
+        
+     
+         <name>
+    <Firstname> "Bob" </name>
+        <Lasttname> "Marshal" </name>
+   <name/>
+      
+        <SL.no> "29" </SL.no>
+        <AdmissionDAte> 13/01/1999 </AdmissionDAte>
+
+           <name>
+    <Firstname> "Clark" </name>
+        <Lasttname> "Kent" </name>
+   <name/>
+      
+        <SL.no> "35" </SL.no>
+        <AdmissionDAte> 17/06/2005 </AdmissionDAte>
+        
+       
